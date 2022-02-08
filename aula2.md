@@ -40,7 +40,6 @@ Ex Permição: 761
 1= X: 1  
 
 -----------------------------------------------
-
 Chmod: Modifica as permiçõe de um arquivo ou diretorio 
 
 Chwon: Modifica o Usuario Dono e o Grupo Dono do arquivo
@@ -71,12 +70,14 @@ Ex Chwon Usuario Dono: chwon user_1 arqTes.md
 Ex Chwon Grupo Dono: chwon :grup_d arqTes.md
 
 -----------------------------------------------
+
 Permições Especiais
 
 chmod & RWX arquivo/diretorio
 
 &: Permição Especial   
 -----------------------------------------------
+
 Permição	  Valor
 
 1: stic bit	| T
@@ -94,9 +95,4 @@ Permição	  Valor
 3: Semelhante ao "2", mas voltado para os Grupos
 
 Ex: chmod 2744 arqTes.md
- 
-
 _______________________________________________
-
-
-Chwon
